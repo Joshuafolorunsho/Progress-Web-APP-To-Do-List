@@ -1,6 +1,6 @@
-const cacheName = 'v1';
+const cacheName = 'v2';
 
-const cacheAssets = ['index.html', 'app.js', 'main.js'];
+const cacheAssets = ['/index.html', '/app.js', '/main.js'];
 
 // Call install event
 
